@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("purplePage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7750b260a765ea037bc0813bcde70cdb334f7dbb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ca8df2ca8c886238323fedb39f83ffc830a156c")]
 [assembly: System.Reflection.AssemblyProductAttribute("purplePage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("purplePage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

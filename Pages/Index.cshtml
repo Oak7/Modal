@@ -13,9 +13,12 @@
 
 
 <div class="container">
+    
+    <h1>Tutorial sobre modal em BootStrap <a href="https://getbootstrap.com.br/docs/4.1/components/modal/"><strong>here</strong></a></h1>
+    <br/>
     <h2>Small Modal</h2>
     <!-- Button to Open the Modal -->
-    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
+    <button style="margin-top:25px;" type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
         Open modal
     </button>
 
@@ -48,7 +51,7 @@
 
 <!-- Botão para acionar modal -->
 <button style="margin-top:200px;" type="button" class="btn btn-primary" data-toggle="modal" data-target="#ExemploModalCentralizado">
-    Abrir modal de demonstração
+    class="modal-dialog-centered"
 </button>
 
 <!-- Modal -->
@@ -56,13 +59,13 @@
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title" id="TituloModalCentralizado">Título do modal</h5>
+                <h5 class="modal-title" id="TituloModalCentralizado">class="modal-dialog-centered"</h5>
                 <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
             <div class="modal-body">
-                ...
+                Faz o modal surgir no meio da tela!
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Fechar</button>
@@ -72,7 +75,7 @@
     </div>
 </div>
 
-<button onclick="abreModalSaldo" type="button" data-toggle="modal" data-target="#ag-modal-saldo" class="ag-page-button ag-brasdesco-sans-semibold" style="margin: 5px; margin-top:50px;">
+<button onclick="abreModalSaldo" type="button" data-toggle="modal" data-target="#ag-modal-saldo" class="ag-page-button ag-brasdesco-sans-semibold" style="margin-top:50px;">
     Modal Saldo
 </button>
 <!-- Modal Saldo -->
@@ -89,8 +92,7 @@
             </div>
             <div style="background-color: #F0F1F5"
                  class="ag-modal-body">
-                Você tem um saldo positivo que será transferido para sua conta Bradesco. Podemos continuar?
-
+                Para o "cancelar" ficar separado do botão, é só colocar style="margin: 20px"
                 <br><br><br>
 
                 <button id="ag-btn-modal-saldo" onclick="solicitarTrocaModelo()" type="button" class="ag-page-button ag-brasdesco-sans-semibold" data-dismiss="modal">Sim, continuar</button>
