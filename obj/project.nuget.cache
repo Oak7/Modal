@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "u1C1s2N6TCZq1Fcod7Iczz2s+Mnb0+KtBygaG0W7pksbqPLBIyr2zuXMKrjgP4SpDt2QoZIkMB/wWh1Quq6MYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriela.carvalho\\source\\repos\\Oak7\\Modal\\purplePage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriela.carvalho\\.nuget\\packages\\bootstrap\\5.2.1\\bootstrap.5.2.1.nupkg.sha512",
+    "C:\\Users\\gabriela.carvalho\\.nuget\\packages\\carbon.data.protection\\1.5.0\\carbon.data.protection.1.5.0.nupkg.sha512",
+    "C:\\Users\\gabriela.carvalho\\.nuget\\packages\\carbon.packaging\\1.50.0\\carbon.packaging.1.50.0.nupkg.sha512",
+    "C:\\Users\\gabriela.carvalho\\.nuget\\packages\\carbon.storage\\3.0.1\\carbon.storage.3.0.1.nupkg.sha512",
+    "C:\\Users\\gabriela.carvalho\\.nuget\\packages\\carbon.versioncontrol\\2.6.0\\carbon.versioncontrol.2.6.0.nupkg.sha512",
+    "C:\\Users\\gabriela.carvalho\\.nuget\\packages\\carbon.versioning\\2.0.1\\carbon.versioning.2.0.1.nupkg.sha512",
+    "C:\\Users\\gabriela.carvalho\\.nuget\\packages\\github\\1.34.0\\github.1.34.0.nupkg.sha512",
+    "C:\\Users\\gabriela.carvalho\\.nuget\\packages\\microsoft.build.tasks.git\\1.1.1\\microsoft.build.tasks.git.1.1.1.nupkg.sha512",
+    "C:\\Users\\gabriela.carvalho\\.nuget\\packages\\microsoft.sourcelink.common\\1.1.1\\microsoft.sourcelink.common.1.1.1.nupkg.sha512",
+    "C:\\Users\\gabriela.carvalho\\.nuget\\packages\\microsoft.sourcelink.github\\1.1.1\\microsoft.sourcelink.github.1.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
